@@ -2,4 +2,11 @@
 
 name="Prasad Mahure"
 
-echo "Hello $name 01"
+echo "Hello $name please your Mobile number"
+
+read username
+
+echo "Your username is $name$username "
+
+
+
